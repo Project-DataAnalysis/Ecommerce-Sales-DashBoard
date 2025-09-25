@@ -97,25 +97,6 @@ Profit by Month (Column chart)
 
 Profit by Sub-Category (Bar chart)
 
-📷 Dashboard Screenshot:
-
-
-(Replace with actual screenshot path in repo)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-▶️ How to Run this Project?
-
-Clone this repository
-
-git clone https://github.com/yourusername/ecommercesaleanalysis.git
-
-
-Open the dataset (.csv or .xlsx) in Power BI
-
-Load the provided .pbix file in Power BI Desktop
-
-Interact with the dashboard (apply filters, drill-downs, etc.)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Results & Conclusion
 
